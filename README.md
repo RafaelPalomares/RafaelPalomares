@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RafaelPalomares
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding Videogames
 - 🌱 I’m currently learning Phaser.JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Videogamedevelopment
+- 📫 How to reach me rafaelmehl2@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to Code shit in my Freetime
+- ⚡ Fun fact: I love the Smiths...
 
 <!---
 RafaelPalomares/RafaelPalomares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
