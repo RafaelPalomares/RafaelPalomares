@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding Videogames
 - 🌱 I’m currently learning Phaser.JS
 - 💞️ I’m looking to collaborate on Videogamedevelopment
-- 📫 How to reach me rafaelmehl2@gmail.com
+- 📫 How to reach me rafael.palomares0607@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Smiths...
 
